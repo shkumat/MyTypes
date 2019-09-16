@@ -62,6 +62,8 @@
     <Compile Include="cPfuFile.cs" />
     <Compile Include="cPinger.cs" />
     <Compile Include="cScr2Cfg.cs" />
+    <Compile Include="cScr2Ext.cs" />
+    <Compile Include="cScr2Rpt.cs" />
     <Compile Include="cSepFile.cs" />
     <Compile Include="cSlkFile.cs" />
     <Compile Include="cTxtFile.cs" />
