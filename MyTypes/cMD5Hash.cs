@@ -2,7 +2,7 @@
 
 namespace MyTypes
 {
-	class	CMd5Hash
+	public	class	CMd5Hash
 	{
 		byte[]					Data		;
 		System.StringComparer			Comparer	;
